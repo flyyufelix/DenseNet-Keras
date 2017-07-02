@@ -36,7 +36,11 @@ Check [this](https://github.com/flyyufelix/cnn_finetune) out to see example of f
 
 ## Requirements
 
-* Keras 1.2.2
-* Theano 0.8.2 or TensorFlow 0.12.0
+* Keras ~~1.2.2~~ 2.0.5
+* Theano 0.8.2 or TensorFlow ~~0.12.0~~ 1.2.1
+
+## Updates
+
+* Keras 2.0.5 and TensorFlow 1.2.1 are supported
 
 
